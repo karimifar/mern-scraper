@@ -1,0 +1,32 @@
+.header{
+    height: 100px;
+    background: #222;
+}
+
+#light{
+    font-weight: 100;
+}
+
+.main-title h1{
+    font-size: 28px;
+    margin-top: 0;
+    color: white;
+}
+.home-p{
+    float: left;
+    padding: 10px;
+    margin-left:10%;
+    margin-top:10px;
+}
+#btn-div{
+    float: right;
+    padding: 20px;
+    margin-right: 10%;
+}
+.btn{
+    font-family: 'Playfair Display', serif;
+}
+
+.btn:hover{
+    background: #ddd;
+}
